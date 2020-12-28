@@ -1,0 +1,18 @@
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\nunit.engine.dll
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\nunit.engine.api.dll
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\nunit.engine.core.dll
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\Desired Name.exe.config
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\Desired Name.exe
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\Desired Name.pdb
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\nunit.framework.dll
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\WebDriver.dll
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\nunit.framework.pdb
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\nunit.framework.xml
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\bin\Debug\WebDriver.xml
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\obj\Debug\Desired Name.csprojAssemblyReference.cache
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\obj\Debug\Desired Name.csproj.CoreCompileInputs.cache
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\obj\Debug\Desired Name.csproj.CopyComplete
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\obj\Debug\Desired Name.exe
+C:\Users\HP-NPC\Desktop\Github\Integration Testing\Desired Name\obj\Debug\Desired Name.pdb
